@@ -8,7 +8,7 @@ const Card = () => {
           <div className="p-6">
             <div className="flex justify-center">
               <Image
-                className="w-48 h-48 object-cover rounded-xl"
+                className="w-50 h-50 object-cover rounded-xl"
                 src={qrcode}
                 alt="QR Code"
               />
